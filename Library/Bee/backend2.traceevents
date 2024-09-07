@@ -1,0 +1,111 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1724879926139105, "dur":15856, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1724879926154966, "dur":73, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1724879926155061, "dur":132, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1724879926155429, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Installation/CubeRun_Data/level3" }}
+,{ "pid":12345, "tid":0, "ts":1724879926155509, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Installation/CubeRun_Data/level3.resS" }}
+,{ "pid":12345, "tid":0, "ts":1724879926155218, "dur":2946, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1724879926158166, "dur":105853, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1724879926264132, "dur":1179, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1724879926155619, "dur":2561, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724879926158183, "dur":513, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724879926158697, "dur":436, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724879926159134, "dur":475, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724879926159609, "dur":1479, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724879926161090, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Installation/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1724879926161148, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724879926161266, "dur":100, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Unity\\2022.3.32f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1724879926161265, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Installation/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1724879926161367, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724879926161462, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Installation/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1724879926161535, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724879926161630, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724879926162199, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724879926162292, "dur":99, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles Installation/CubeRun_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724879926162423, "dur":373, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724879926162796, "dur":132, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles Installation/CubeRun_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724879926162930, "dur":1584, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Projects\\CubeRun\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724879926162929, "dur":1585, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Installation/CubeRun_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724879926164780, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724879926164958, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724879926165088, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724879926165230, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724879926165369, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724879926165565, "dur":1074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Installation/CubeRun_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":1, "ts":1724879926167622, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724879926166716, "dur":981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Installation/CubeRun_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1724879926167803, "dur":814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Installation/CubeRun_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1724879926168651, "dur":1084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Installation/CubeRun_Data/level3" }}
+,{ "pid":12345, "tid":1, "ts":1724879926169820, "dur":1008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Installation/CubeRun_Data/level1" }}
+,{ "pid":12345, "tid":1, "ts":1724879926170875, "dur":629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Installation/CubeRun_Data/level0" }}
+,{ "pid":12345, "tid":1, "ts":1724879926171549, "dur":1757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Installation/CubeRun_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1724879926173343, "dur":690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Installation/CubeRun_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1724879926174064, "dur":89960, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1724879926155610, "dur":2564, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1724879926158177, "dur":2904, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1724879926163073, "dur":90, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1724879926162578, "dur":622, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1724879926163202, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1724879926163277, "dur":13623, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1724879926163201, "dur":13981, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1724879926177839, "dur":82273, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1724879926263107, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1724879926263106, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Installation/CubeRun_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1724879926263209, "dur":706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Installation/CubeRun_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1724879926155665, "dur":2548, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1724879926158214, "dur":515, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1724879926158729, "dur":572, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1724879926159302, "dur":176, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1724879926159478, "dur":1608, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1724879926161142, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1724879926161259, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Installation/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1724879926161361, "dur":176, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1724879926161568, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Installation/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1724879926161642, "dur":628, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1724879926162284, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1724879926162345, "dur":57, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles Installation/CubeRun_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724879926162433, "dur":143, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1724879926162590, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1724879926162721, "dur":392, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Projects\\CubeRun\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724879926162717, "dur":397, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Installation/CubeRun_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724879926163163, "dur":228, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Projects\\CubeRun\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724879926163162, "dur":230, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Installation/CubeRun_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724879926163421, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Projects\\CubeRun\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724879926163420, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Installation/CubeRun_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724879926163552, "dur":2339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Installation/CubeRun_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724879926165953, "dur":802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Installation/CubeRun_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1724879926166801, "dur":966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Installation/CubeRun_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1724879926167825, "dur":783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Installation/CubeRun_Data/level3.resS" }}
+,{ "pid":12345, "tid":3, "ts":1724879926168725, "dur":1182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Installation/CubeRun_Data/level2" }}
+,{ "pid":12345, "tid":3, "ts":1724879926169942, "dur":2977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Installation/CubeRun_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1724879926173043, "dur":1835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Installation/CubeRun_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1724879926174905, "dur":89053, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1724879926155648, "dur":2544, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1724879926158197, "dur":532, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1724879926158729, "dur":578, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1724879926159307, "dur":1780, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1724879926161090, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Installation/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1724879926161236, "dur":88, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Unity\\2022.3.32f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1724879926161234, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Installation/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1724879926161325, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1724879926162200, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1724879926162278, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1724879926162367, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1724879926162429, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1724879926162529, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1724879926162592, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1724879926162727, "dur":87, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Projects\\CubeRun\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1724879926162726, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Installation/CubeRun_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1724879926162874, "dur":486, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Projects\\CubeRun\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1724879926162873, "dur":487, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Installation/CubeRun_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1724879926163393, "dur":138, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Projects\\CubeRun\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1724879926163392, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Installation/CubeRun_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1724879926165457, "dur":872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Installation/CubeRun_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":4, "ts":1724879926166412, "dur":776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Installation/CubeRun_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":4, "ts":1724879926167238, "dur":75, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1724879926167237, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Installation/CubeRun_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1724879926167358, "dur":9325, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1724879926167357, "dur":9327, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Installation/CubeRun_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1724879926176726, "dur":87227, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1724879926267668, "dur":548, "ph":"X", "name": "ProfilerWriteOutput" }
+,
